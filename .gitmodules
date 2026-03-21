@@ -1,0 +1,3 @@
+[submodule "CodingAgentRules"]
+	path = CodingAgentRules
+	url = https://github.com/dariaGlint/CodingAgentRules.git
